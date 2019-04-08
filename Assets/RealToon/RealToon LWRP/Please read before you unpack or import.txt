@@ -1,0 +1,36 @@
+RealToon (LWRP)
+===========================================================
+Note:
+===========================================================
+
+Currently only "Default" and "Fade Transparency" are avaiable.
+Tessellation will be coming soon if Unity LWRP support it 
+and refraction also.
+
+You can also use this for mobile games.
+
+===========================================================
+===========================================================
+
+(To use this you need):
+*Unity 2018 or latest unity version with LWRP version 4.0.0 or latest.
+
+How To Update LWRP:
+1.Go to Window > Package Manager.
+2.Select "All" then select "Lightweight Render and select "Version 4.0.0" or latest.
+
+
+===========================================================
+Fixed
+===========================================================
+- Fix GPU instancing "Outline".
+- On/Off "Disable Cast Shadow" option not working properly when doing Multi Material/Selected Material Editing.
+- Normal is visible/showing when there is pointlight + GI.
+- Shadow is still visible even if "Double Sided" is off.
+
+===========================================================
+Changes
+===========================================================
+
+*Reduce Shadow (Pointlight) is still removed temporarily.
+- Removed temporarily because pointlight shadow is not yet available.

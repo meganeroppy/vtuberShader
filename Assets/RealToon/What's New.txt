@@ -1,0 +1,23 @@
+What's New to RealToon V5.2.2 Update (March 2019)
+=====================================
+[New]
+
+- Directional Light Intensity [New Option/Feature]
+* You can now adjust "Directional Light Intensity" on a material, 
+  just like "Point & Spot Light Intensity".
+
+- No Light and Shadow On Backface [New Option/Feature]
+* For Double Sided "On".
+
+- Far Distance Max Width [New Option/Feature]
+* Maximum outline width when far.
+* An option for "Outline Width Affected By View Distance".
+
+[Other New]
+- Video Tutorials [Button]
+* To access "Video Tutorials" right away.
+
+- Added support "GLES 2.0".
+
+[Other Notes]
+* If you encounter some problems or need help just contact by email.
